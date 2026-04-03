@@ -8,7 +8,7 @@ export interface PortfolioItem {
 export const portfolioItems: PortfolioItem[] = [
   {
     title: "Satin Red Tesla",
-    description: "Full vehicle wrap in premium satin red finish",
+    description: "Full decal in premium satin red finish",
     images: [
       "https://res.cloudinary.com/de49zugry/image/upload/v1771668014/red-tesla-model-3-car-wrap_smli31.jpg",
       "https://res.cloudinary.com/de49zugry/image/upload/v1771668026/red-tesla-model-3-car-wrap.FRONT_vzq87w.png",
