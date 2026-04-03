@@ -5,6 +5,16 @@ import Link from "next/link"
 
 const services = [
   {
+    icon: Shield,
+    title: "Paint Protection Film",
+    description: "Our PPF boasts a 10 year guarantee and self healing properties for ultimate protection.",
+  },
+  {
+    icon: Home,
+    title: "Interior & Exterior",
+    description: "Exterior trim restoration for plastics and interior design wraps for style and protection.",
+  },
+  {
     icon: Palette,
     title: "Vehicle Wraps",
     description: "Completely change the look of your vehicle with an external colour change.",
@@ -23,16 +33,6 @@ const services = [
     icon: Zap,
     title: "Light Tinting",
     description: "Smoking your front or rear lights can add a sleek look to your vehicle.",
-  },
-  {
-    icon: Shield,
-    title: "Paint Protection Film",
-    description: "Our PPF boasts a 10 year guarantee and self healing properties for ultimate protection.",
-  },
-  {
-    icon: Home,
-    title: "Interior & Exterior",
-    description: "Exterior trim restoration for plastics and interior design wraps for style and protection.",
   },
 ]
 
