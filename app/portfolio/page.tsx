@@ -19,7 +19,7 @@ export default function PortfolioPage() {
               </span>
             </h1>
             <p className="text-xl text-gray-400 max-w-2xl mx-auto text-pretty leading-relaxed">
-              Explore our collection of custom vehicle wraps and styling projects
+              Explore our collection of custom decals and styling projects
             </p>
           </div>
 

@@ -6,12 +6,12 @@ import Link from "next/link"
 const services = [
   {
     icon: Palette,
-    title: "Vehicle Wraps",
+    title: "Decals",
     description: "Completely change the look of your vehicle with an external colour change.",
   },
   {
     icon: Sparkles,
-    title: "Decals",
+    title: "Vehicle Wraps",
     description: "Anything from full liveries to simple advertising stickers.",
   },
   {
